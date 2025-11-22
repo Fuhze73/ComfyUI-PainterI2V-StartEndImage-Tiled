@@ -1,4 +1,5 @@
-# ComfyUI-PainterI2V
+# ComfyUI-PainterI2V-StartEndImage-Tiled
+
 
 此节点由抖音博主：绘画小子 制作。
 
@@ -204,6 +205,7 @@ In your workflow, replace `WanImageToVideo` with `PainterI2V`.
 If you find this project helpful, please give it a star ⭐ to show your support!
 </div>
 # Restart ComfyUI
+
 
 
 
